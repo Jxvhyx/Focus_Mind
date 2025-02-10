@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS Focus_Mind;
 CREATE DATABASE Focus_Mind;
 USE Focus_Mind;
 
